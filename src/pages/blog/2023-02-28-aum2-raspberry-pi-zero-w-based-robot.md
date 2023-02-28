@@ -10,6 +10,7 @@ featuredpost: true
 featuredimage: /img/arduino-smart-car.jpg
 tags:
   - arduino
+  - robots
 ---
 As soon as I got my Raspberry Pi Zero W, I started thinking how to test it. I chose to use it as brain of one of those standard robot bases available online.
 
