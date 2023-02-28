@@ -7,7 +7,7 @@ description: |-
     test it. I chose to use it as brain of one of those standard robot bases
     available online.
 featuredpost: true
-featuredimage: /img/arduino-smart-car.jpg
+featuredimage: /img/img_20170418_120138-730x350.jpg
 tags:
   - arduino
   - robots
