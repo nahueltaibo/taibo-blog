@@ -46,9 +46,9 @@
   "main": "n/a",
   "scripts": {
     "clean": "gatsby clean && gatsby telemetry --disable",
-    "start": "npm run develop",
-    "build": "npm run clean && gatsby build",
-    "develop": "npm run clean && gatsby develop",
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider &&npm run develop",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider &&npm run clean && gatsby build",
+    "develop": "SET NODE_OPTIONS=--openssl-legacy-provider && npm run clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
