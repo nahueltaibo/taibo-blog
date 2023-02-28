@@ -28,6 +28,6 @@ L﻿ist of materials:
 
 T﻿he first part we'll make is the workbench, so we can use it later to build the shelves.
 
-I﻿ used this draw to cut the parts, particularly usefull for the table top and shelve. And allows you to see that both plywood sheets will be cut in half on the longer side, and one of those halfs will be cut in the middle on its shorter side.
+I﻿ used this draw to cut the parts, particularly useful for the table top and shelve. And allows you to see that both plywood sheets will be cut in half on the longer side, and one of those halfs will be cut in the middle on its shorter side.
 
 ![wood cuts](/img/cuts.jpg)
