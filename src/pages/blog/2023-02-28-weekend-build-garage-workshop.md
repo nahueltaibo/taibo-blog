@@ -18,7 +18,7 @@ W﻿e recently moved to a new house, and as usual there are plenty projects to t
 
 I﻿ think the outcome was nice, so I want to share that with you in case you are in need for something similar. I do recommend this build particularly if you have really little extra space in the garage as it is my case.
 
-L﻿ist of materials:
+**L﻿ist of materials**
 - 2 Plywood 1/2" x 4' x 8'
 - 10 2" x 2" x 8'
 - 6 2" x 4" x 8'
